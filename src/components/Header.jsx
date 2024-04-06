@@ -40,7 +40,8 @@ export default function Header() {
                                 />
                             
                             </Link> */}
-                                <li className=' text-slate-700 hover:underline'> Sign in</li>
+                            
+                                <Link to="/signup"className=' text-slate-700 hover:underline'> Sign in</Link>
                            
                     </ul>
                 </div>
